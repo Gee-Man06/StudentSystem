@@ -6,7 +6,10 @@ The system provides role-based functionality where an administrator manages stud
 enroll in available courses.
 
 🚀 Features
-👨‍💼 Admin ფუნქ
+---
+
+👨‍💼 Admin
+
 Add new students to the system
 Remove existing students
 Create and manage course modules
@@ -14,7 +17,8 @@ Maintain system data integrity
 
 ---
 
-👨‍🎓 Student ფუნქ
+👨‍🎓 Student
+
 Secure login authentication (no self-registration)
 View all available modules
 Enroll in modules
@@ -26,7 +30,7 @@ Prevented from enrolling in the same module more than once
 🛠️ Tech Stack
 
 Language: Java
-Database: Apache Derby (or replace with your actual DB)
+Database: Apache Derby
 Architecture: Object-Oriented Design
 Tools:  NetBeans 
 
