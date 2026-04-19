@@ -52,6 +52,37 @@ Prevented from enrolling in the same module more than once
 - Challenge: Managing relationships between students and modules
     - Solution: Used an intermediary enrollment structure to handle many-to-many relationships
 
+⚙️ How to Run the Project (Setup Guide)
+---
+📥 Prerequisites
+---
+
+Make sure you have the following installed:
+
+Java JDK (8 or higher)
+NetBeans IDE
+Apache Derby (usually bundled with NetBeans)
+
+🧾 Steps to Run
+---
+Clone the Repository
+git clone https://github.com/your-username/your-repo-name.git
+Open Project in NetBeans
+Launch NetBeans
+Click File → Open Project
+Navigate to the cloned project folder and open it
+Set Up the Database (Apache Derby)
+Open the Services tab in NetBeans
+Expand Databases → Java DB (Derby)
+Start the Derby server
+Create a new database (if not already included)
+Run the provided SQL scripts (if available) to create tables
+Configure Database Connection
+Update database connection settings in the project (if needed)
+Ensure username, password, and database name match your setup
+Run the Project
+Right-click the project → Run
+The application should start
 
 📸 Screenshots
 
