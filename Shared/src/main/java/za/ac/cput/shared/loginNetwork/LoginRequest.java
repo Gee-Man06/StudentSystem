@@ -11,14 +11,12 @@ import java.io.Serializable;
  * @author Phiwa
  */
 public class LoginRequest implements Serializable {
-
     private static final long serialVersionUID = 1L; // important!
 
     private String action;
     private String username;
     private String password;
     private String role;
-
     // Constructor
     public LoginRequest(String action, String username, String password, String role) {
         this.action = action;
@@ -26,13 +24,11 @@ public class LoginRequest implements Serializable {
         this.password = password;
         this.role = role;
     }
-
     // Getters
     public String getAction() { return action; }
     public String getUsername() { return username; }
     public String getPassword() { return password; }
     public String getRole() { return role; }
-
     // Setters (optional)
     public void setAction(String action) { this.action = action; }
     public void setUsername(String username) { this.username = username; }
