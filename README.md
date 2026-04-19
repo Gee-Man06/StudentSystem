@@ -9,6 +9,8 @@ enroll in available courses.
 ---
 
 👨‍💼 Admin
+---
+
 - Add new students to the system
 - Remove existing students
 - Create and manage course modules
@@ -22,8 +24,8 @@ enroll in available courses.
 - Secure login authentication (no self-registration)
 - View all available modules
 - Enroll in modules
-Unenroll from modules
-Prevented from enrolling in the same module more than once
+- Unenroll from modules
+- Prevented from enrolling in the same module more than once
 
 ---
 
@@ -68,7 +70,7 @@ Make sure you have the following installed:
 - Clone the Repository
 - git clone https://github.com/your-username/your-repo-name.git
 
-# Open Project in NetBeans
+## Open Project in NetBeans
 ---
 
 - Launch NetBeans
@@ -79,12 +81,11 @@ Make sure you have the following installed:
 - Expand Databases → Java DB (Derby)
 - Start the Derby server
 - Create a new database (if not already included)
-- Run the provided SQL scripts (if available) to create tables
 - Configure Database Connection
 - Update database connection settings in the project (if needed)
 - Ensure username, password, and database name match your setup
 
-# Run the Project
+## Run the Project
 ---
 
 - Right-click the project → Run
