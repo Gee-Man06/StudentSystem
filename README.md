@@ -9,53 +9,49 @@ enroll in available courses.
 ---
 
 👨‍💼 Admin
-
-Add new students to the system
-Remove existing students
-Create and manage course modules
-Maintain system data integrity
+- Add new students to the system
+- Remove existing students
+- Create and manage course modules
+- Maintain system data integrity
 
 ---
 
 👨‍🎓 Student
+---
 
-Secure login authentication (no self-registration)
-View all available modules
-Enroll in modules
+- Secure login authentication (no self-registration)
+- View all available modules
+- Enroll in modules
 Unenroll from modules
 Prevented from enrolling in the same module more than once
 
 ---
 
 🛠️ Tech Stack
-
-Language: Java
-Database: Apache Derby
-Architecture: Object-Oriented Design
-Tools:  NetBeans 
+---
+- Language: Java
+- Database: Apache Derby
+- Architecture: Object-Oriented Design
+- Tools:  NetBeans 
 
 ---
 🧠 System Design
-Role-based access control (Admin vs Student)
-Many-to-many relationship between Students and Modules
-Enrollment validation to prevent duplicate registrations
-Structured using core OOP principles (encapsulation, modular design)
+---
+
+- Role-based access control (Admin vs Student)
+- Many-to-many relationship between Students and Modules
+- Enrollment validation to prevent duplicate registrations
+- Structured using core OOP principles (encapsulation, modular design)
 
 ---
 
 ⚠️ Challenges & Solutions
-Challenge: Preventing duplicate module enrollments
-Solution: Implemented validation checks before inserting enrollment records into the database
+---
+- Challenge: Preventing duplicate module enrollments
+    - Solution: Implemented validation checks before inserting enrollment records into the database
+- Challenge: Managing relationships between students and modules
+    - Solution: Used an intermediary enrollment structure to handle many-to-many relationships
 
-Challenge: Managing relationships between students and modules
-Solution: Used an intermediary enrollment structure to handle many-to-many relationships
-
-
-
-
-📂 Repository
-
-Add your GitHub repository link here
 
 📸 Screenshots
 
