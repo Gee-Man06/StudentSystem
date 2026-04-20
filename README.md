@@ -1,6 +1,8 @@
 🎓 Course Enrollment System (Java)
 
+
 📌 Overview
+---
 
 The Course Enrollment System is a Java-based application developed as a group project to manage student course registrations.
 The system provides role-based functionality where an administrator manages students and modules, and students can securely 
