@@ -92,7 +92,7 @@ Make sure you have the following installed:
 - Right-click the project → Run
 - The application should start
 
-📸 Screenshots
+## 📸 Screenshots
 
 <table>
   <tr>
@@ -107,6 +107,3 @@ Make sure you have the following installed:
   </tr>
 </table>
 
-
-
-Add screenshots of your system here (optional but recommended)
