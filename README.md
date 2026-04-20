@@ -1,4 +1,5 @@
 🎓 Course Enrollment System (Java)
+
 📌 Overview
 
 The Course Enrollment System is a Java-based application developed as a group project to manage student course registrations.
@@ -68,7 +69,7 @@ Make sure you have the following installed:
 ---
 
 - Clone the Repository
-- git clone https:[//github.com/your-username/your-repo-name.git](https://github.com/Gee-Man06/StudentSystem)
+- git clone https:(https://github.com/Gee-Man06/StudentSystem)
 
 ## Open Project in NetBeans
 ---
