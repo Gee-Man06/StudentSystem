@@ -68,7 +68,7 @@ Make sure you have the following installed:
 ---
 
 - Clone the Repository
-- git clone https://github.com/your-username/your-repo-name.git
+- git clone https:[//github.com/your-username/your-repo-name.git](https://github.com/Gee-Man06/StudentSystem)
 
 ## Open Project in NetBeans
 ---
