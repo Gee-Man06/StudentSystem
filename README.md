@@ -102,8 +102,8 @@ Make sure you have the following installed:
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/a1a93d4c-67e0-4dd4-bba0-0acab2a66985" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/25580d30-f959-44ab-b87a-106ddd408ead" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/27b7fb49-5531-47f0-aa73-3cdf3ac831d7" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/25580d30-f959-44ab-b87a-106ddd408ead" width="300"/></td>
   </tr>
 </table>
 
