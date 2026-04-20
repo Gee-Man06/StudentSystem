@@ -94,4 +94,7 @@ Make sure you have the following installed:
 
 📸 Screenshots
 
+<img width="881" height="584" alt="image" src="https://github.com/user-attachments/assets/a1a93d4c-67e0-4dd4-bba0-0acab2a66985" />
+
+
 Add screenshots of your system here (optional but recommended)
