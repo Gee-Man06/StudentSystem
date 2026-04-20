@@ -94,7 +94,19 @@ Make sure you have the following installed:
 
 📸 Screenshots
 
-<img width="881" height="584" alt="image" src="https://github.com/user-attachments/assets/a1a93d4c-67e0-4dd4-bba0-0acab2a66985" />
+<table>
+  <tr>
+    <td align="center"><b>Login Screen</b></td>
+    <td align="center"><b>Admin Dashboard</b></td>
+    <td align="center"><b>Student Enrollment</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a1a93d4c-67e0-4dd4-bba0-0acab2a66985" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/25580d30-f959-44ab-b87a-106ddd408ead" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/27b7fb49-5531-47f0-aa73-3cdf3ac831d7" width="300"/></td>
+  </tr>
+</table>
+
 
 
 Add screenshots of your system here (optional but recommended)
